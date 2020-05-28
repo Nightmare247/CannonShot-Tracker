@@ -1,5 +1,6 @@
 # CannonShot-Tracker
 Track a Cannonshot by manually changing the launch trajectory and initial velocity.
+Press Enter to launch
 The graphics and math module need to be downloaded, if not already downloaded.
 Controll the launch angle by up and down arrows.Control the initial velocity by the right and left arrows
 DO NOT SET THE VEOCITY TOO MUCH OR IT WON'T BE DRAWN PROPERLY
