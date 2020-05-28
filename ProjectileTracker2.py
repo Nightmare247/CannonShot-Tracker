@@ -111,7 +111,6 @@ def animateShot(angle,velocity):
 def main():
     x=arrow(45,100,win)
     x.arrowline.draw(win)
-    x.moveArrow()
     
     if x.moveArrow():
         win.close()
